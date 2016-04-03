@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/SSubra27/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-7eec8e85b06b2ff74047b96f5c79a57d6f953e96.jar" />
+    </item>
+    <item
+        jar="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/pre-dexed/debug/classes-a00ae8d7a1524f1021e30983427a2bd11ddfb29b.jar" />
+    </item>
+    <item
+        jar="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/pre-dexed/debug/classes-5c3467978480e440df4d3aa60d2c83f99464bcd7.jar" />
+    </item>
+    <item
+        jar="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-00129bfdd04f5dc22ebd5c92e7615042c9797e85.jar" />
+    </item>
+    <item
+        jar="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/pre-dexed/debug/classes-682ba79554749ee79b2c0d0cc5459bfffa6708d1.jar" />
+    </item>
+    <item
+        jar="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/SSubra27/AndroidStudioProjects/CRiminalIntent2/app/build/intermediates/pre-dexed/debug/classes-d378b4495284495ecc980d0147a11389f4087562.jar" />
+    </item>
+
+</items>
